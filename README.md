@@ -1,2 +1,2 @@
 # kcpp-optimization
-Seminarski rad iz predmet Računarska Inteligencija
+Seminarski rad iz predmeta Računarska Inteligencija
